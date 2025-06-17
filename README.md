@@ -18,9 +18,13 @@ Business Questions Addressed
 
 Key Analytical Approaches 
 
-** Advanced Analytics**: Multi-criteria decision analysis, causal inference, reinforcement learning
+**Advanced Analytics**: Multi-criteria decision analysis, causal inference, reinforcement learning
+
 **Machine Learning**: Ensemble methods, recommendation systems, dynamic pricing algorithms
+
 **Data Visualization**: Interactive PowerBI dashboards with advanced DAX formulas
+
 **Statistical Anlaysis**: Bayesian A/B testing, propensity score matching, survival analysis
+
 
 
