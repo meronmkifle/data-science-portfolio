@@ -1,5 +1,5 @@
 # data-science-portfolio
-Deliveroo Data Analyst Portfolio: Advanced Analytics Framework
+Food Delivery Company Data Science/Analyst Project: Advanced Analytics Framework
 
 **Project Overview**
 This portfolio demonstrates advanced data science capabilities through 8 interconnected business analyses addressing Deliveroo's key strategic challenges. Each analysis combines machine learning, statistical modeling, and A/B testing frameworks to deliver actionable insights with quantified business impact.
